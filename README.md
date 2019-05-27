@@ -1,4 +1,4 @@
-Programming Exercises from Professor Ng's Machine Learning class
+Programming Exercises and my class notes from Professor Ng's Machine Learning class
 
 * Ex1: Linear Regression
 * Ex2: Logistic Regression
@@ -8,3 +8,5 @@ Programming Exercises from Professor Ng's Machine Learning class
 * Ex6: Support Vector Machines
 * Ex7: K-Means Clustering & PCA
 * Ex8: Anomaly Detection and Recommender Systems
+
+* Class Notes are in the "my class notes" directory.
